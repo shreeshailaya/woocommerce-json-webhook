@@ -6,7 +6,7 @@
 **Tested up to**: 6.0  
 **Stable tag**: 1.0  
 **License**: GPLv2 or later  
-**License URI**: https://www.gnu.org/licenses/gpl-2.0.html  
+**License URI**: [https://www.gnu.org/licenses/gpl-2.0.html]https://github.com/shreeshailaya/woocommerce-json-webhook/blob/master/LICENSE)  
 
 A simple plugin to send WooCommerce webhook data in `application/json` format instead of the default `application/x-www-form-urlencoded`.
 
