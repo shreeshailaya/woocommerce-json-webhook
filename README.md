@@ -1,4 +1,4 @@
-# WooCommerce JSON Webhook
+# JSON Webhook for Woo
 
 **Contributors**: Shreeshail Vitkar  
 **Tags**: WooCommerce, webhook, JSON  
